@@ -6,3 +6,4 @@ cd Kali-Linux-Install-on-Termux
 chmod +x *
 ./Installer.sh
 '''
+
